@@ -1,4 +1,4 @@
-# scrolltrigger-svg-text-mask
+# Scrolltrigger-SVG-Text-Mask
 
 scroll trigger svg text mask using gsap
 
